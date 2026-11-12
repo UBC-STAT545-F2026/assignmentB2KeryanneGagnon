@@ -48,8 +48,9 @@ count_all_missing_by_group(airquality, Month, .groups = "keep")
 #> 5     9     1       0     0     0     0
 ```
 
-What is special about using `README.Rmd` instead of just `README.md`?
-You can include R chunks like so:
+***DELETE everything after this line***\_ What is special about using
+`README.Rmd` instead of just `README.md`? You can include R chunks like
+so:
 
 ``` r
 summary(cars)

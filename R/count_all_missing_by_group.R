@@ -26,6 +26,8 @@
 #' each level of `group` for all columns in
 #' `data` except `group`.
 #'
+#' @import dplyr
+#'
 #' @examples
 #' count_all_missing_by_group(airquality, Month)
 #' airquality |> count_all_missing_by_group(Month)

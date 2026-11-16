@@ -16,7 +16,7 @@ to group the variables (and missing values).
 Package installation can be done directly by calling:
 
 ``` r
-devtools::install_github("UBC-STAT545-F2026/assignmentB2KeryanneGagnon")
+pak::pak("UBC-STAT545-F2026/assignmentB2KeryanneGagnon")
 ```
 
 ## Example

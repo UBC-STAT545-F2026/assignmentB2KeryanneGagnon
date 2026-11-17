@@ -1,6 +1,6 @@
 Package: assignmentB2KeryanneGagnon
 Title: Count missing values for all columns by group
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
     person("Keryanne", "Gagnon", , "kgagno01@student.ubc.ca", role = c("aut", "cre"))
 Description: Given a data frame `data` and a column `group`, `count_all_missing_by_group()` creates a new data frame with one row per level of `group`. The first column of the output data frame contains the levels of `group`, and the rest of the columns contain the number of missing values for all columns in `data` except `group`.
